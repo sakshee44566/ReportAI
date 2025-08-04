@@ -39,7 +39,7 @@ ReportAI is a modern web application that allows users to upload PDF reports and
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/sakshee44566/ReportAI.git
    cd ReportAI
    ```
 
