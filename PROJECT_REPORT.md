@@ -523,7 +523,7 @@ npm install
 ## 📝 License & Credits
 
 - **License**: MIT License
-- **Author**: ReportAI Team
+- **Author**: Sakshee
 - **Dependencies**: See package.json files for complete dependency list
 - **Third-party Services**: Google Gemini AI, MongoDB Atlas
 
